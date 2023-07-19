@@ -7,13 +7,13 @@
    ### How to download:
    https://shantoroy.com/security/using-ropper-to-find-address-of-gadgets
    ### How to config:
-   Add this line to ~/.bashrc file: **alias ropper='python3 ~/Downloads/Ropper/ropper.py'**
+   Add this line to bashrc file: **alias ropper='python3 ~/Downloads/Ropper/ropper.py'**
 
 ## 3. ghidra - opensource ida like disassembler
    ### How to download:
    https://github.com/NationalSecurityAgency/ghidra/releases
    ### How to config:
-   Add this line to ~/.bashrc file: **alias ghidra='~/Downloads/ghidra/ghidraRun'**
+   Add this line to bashrc file: **alias ghidra='~/Downloads/ghidra/ghidraRun'**
 
 ## 4. rabin2 - tool for finding symbols, analyze the executable and more
    ### How to download:
