@@ -19,4 +19,5 @@
    ### How to download:
    https://zoomadmin.com/HowToInstall/UbuntuPackage/radare2
    when installing radare2 we install rabin2 as well
+   https://github.com/radareorg/radare2/tree/master - if method 1 nto working
    
