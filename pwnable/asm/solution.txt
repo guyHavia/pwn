@@ -1,0 +1,4 @@
+asm challenge:
+1. write shellcode that reads flag file
+2. write python that runs the shellcode (pwn tools)
+3. key: Mak1ng_shelLcodE_i5_veRy_eaSy

